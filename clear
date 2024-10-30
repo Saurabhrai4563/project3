@@ -1,0 +1,9 @@
+[1mdiff --git a/app2.js b/app2.js[m
+[1mindex fea0886..492e537 100644[m
+[1m--- a/app2.js[m
+[1m+++ b/app2.js[m
+[36m@@ -1 +1 @@[m
+[31m-// adding new feature.. in different branch called "Feature" - button[m
+\ No newline at end of file[m
+[32m+[m[32m// adding new feature.. in different branch called "Feature"c - form[m
+\ No newline at end of file[m
